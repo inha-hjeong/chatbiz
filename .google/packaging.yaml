@@ -1,0 +1,23 @@
+status:       PUBLISHED
+technologies: [Android, JetpackCompose]
+categories:
+    - AndroidArchitectureUILayer
+    - AndroidArchitectureStateProduction
+    - AndroidArchitectureUIEvents
+    - JetpackComposeArchitectureAndState
+    - JetpackComposeDesignSystems
+    - JetpackComposeAnimation
+    - JetpackComposeTextAndInput
+    - JetpackComposeTesting
+languages:    [Kotlin]
+solutions:
+    - Mobile
+    - JetpackHilt
+    - JetpackLifecycle
+    - JetpackNavigation
+    - JetpackFragment
+github:       android/compose-samples
+level:        BEGINNER
+apiRefs:
+    - android:androidx.compose.Composable
+license: apache2
