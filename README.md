@@ -1,4 +1,3 @@
-### chatbiz
 # Team Members
 ## U1910272
 ## U1910279
